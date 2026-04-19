@@ -1,0 +1,5 @@
+train.csv
+*.pkl
+__pycache__/
+venv/
+*.pyc
